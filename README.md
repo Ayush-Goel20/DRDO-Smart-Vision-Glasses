@@ -14,7 +14,6 @@ This project implements smart glasses that use computer vision and AI to detect 
 
 - `/Hardware` - Arduino code for ESP32-CAM
 - `/Software/ML_Object_Detection` - Python implementation of YOLOv8 model
-- `/Software/Dashboard` - Streamlit web dashboard
 - `/Documentation` - Project report and related documents
 
 ## Team Members
